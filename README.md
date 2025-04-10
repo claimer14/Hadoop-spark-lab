@@ -1,4 +1,4 @@
-# Анализ производительности Hadoop и Spark
+# Hadoop и Spark
 
 ## Архитектура
 - **Hadoop Cluster**:
