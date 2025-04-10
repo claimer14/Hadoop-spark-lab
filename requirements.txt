@@ -1,0 +1,4 @@
+pyspark==3.5.1
+psutil==5.9.8
+matplotlib==3.7.5
+pandas==2.0.3 
